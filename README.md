@@ -1,4 +1,4 @@
-# encrypter
-Method of encrypting game files, made by the late Ark120202
+# Custom Game Encrypter by Ark120202
+Method of encrypting game files, made by the late Ark120202. This was designed for the Custom Game, Custom Hero Clash, but it can be used on any custom game. It can encrypt the LUA files so that if somebody opens the vpk, they cannot see the code, it can also encrypt Javascript and obfusicate and hide what is the correct CSS files, it may do extra things but I dont know it that well.
 
 Unforotunately only Ark knows how this works in detail. I know the principle behind it is, that it uses the secret dedicated server key to encrypt LUA files (and also javascript, but I know even less about that) so that the code only becomes useable when it is played on the official workshop entry, with the correct secret code. I have left some of the file structure in config as an example, but you will need to update that for your game. 
