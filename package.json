@@ -1,0 +1,9 @@
+{
+  "author": "ark120202",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "luamin": "1.0.4",
+    "luaparse": "0.2.1",
+    "picomatch": "^2.2.1"
+  }
+}
